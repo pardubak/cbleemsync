@@ -1,5 +1,5 @@
 ﻿ - Automatic PlayStation Classic USB launcher
- - Automatický USB spúšťač Playstation Classic
+  - Automatický USB spúšťač Playstation Classic
 'Tenchu' theme by Kevzombie
 Téma 'Tenchu' od Kevzombie
 -=About=-
@@ -33,11 +33,11 @@ Hra
 Game Manager
 Manažér hier
 Games changed. Press
-Zmenené hry. Stlač
+Nájdené nové hry. Stlač
 Go back
 Naspäť
 Loading ... Please Wait ...
-Nahrávam ... Čakajte prosím ...
+Nahrávam ... Čakaj prosím ...
 Memory Cards
 Pamäťová karta
 Menu Theme:
@@ -51,15 +51,15 @@ Strana
 QuickBoot:
 Rýchly štart:
 Re/Scan
-Pre/Skenovať
+Pre/Hľadať
 RetroArch
 RetroArch
 Scanning...
-Skenujem...
+Hľadám...
 Select
 Vybrať
 Show RetroArch:
-RetroArch:
+Spustiť RetroArch:
 Support via Discord: https://discord.gg/AHUS3RM
 Podpora na Discorde: https://discord.gg/AHUS3RM
 This is free and open source software. It works AS IS and We take no reponsibility for any issues or damage.
@@ -69,13 +69,13 @@ Celkom:
 Updating regional.db...
 Aktualizujem regional.db...
 Upgrading AutoBleem - Please wait...
-Aktualizujem AutoBleem - Prosím čakajte...
+Aktualizujem AutoBleem - Čakaj prosím...
 WARNING: NO GAMES FOUND. PRESS ANY BUTTON.
-POZOR: NEBOLA NÁJDENÁ ŽIADNA HRA. STLAČTE ĽUBOVOĽNÚ KLÁVESU.
+POZOR: NEBOLA NÁJDENÁ ŽIADNA HRA. STLAČ ĽUBOVOĽNÚ KLÁVESU.
 games scanned
-nájdené hry
+nájdených hier
 to scan
-nájsť
+prehľadať
 Game:
 Hra:
 Code: AutoBleem Team (screemer, mGGk, nex, ThaFridge)
@@ -117,7 +117,7 @@ Nová karta
 Rename
 Premenovať
 Enter new name for memory card
-Zadajte nový názov pamäťovej karty
+Zadaj nový názov pamäťovej karty
 Cancel
 Zrušiť
 Confirm
@@ -125,17 +125,17 @@ Potvrdiť
 Space
 Medzera
 Enter new game name
-Zadajte nový názov hry
+Zadaj nový názov hry
 Original
 PSC hry
 Enter new card name
-Zadajte nový názov karty
+Zadaj nový názov karty
 Delete card
 Zmazať kartu
 -=Please confirm=-
--=Potvrďte prosím=-
+-=Potvrď prosím=-
 PLEASE CONNECT GAMEPAD TO PLAYSTATION CLASSIC
-PRIPOJTE PROSÍM GAMEPAD K PLAYSTATIONU CLASSIC
+PRIPOJ PROSÍM GAMEPAD K PLAYSTATIONU CLASSIC
 Caps
 Veľké
 Internal
@@ -143,15 +143,15 @@ Vnútorná
 (Custom)
 (Vlastná)
 Enter new name for card
-Zadajte nový názov karty
+Zadaj nový názov karty
 Menu
 Menu
 Quick boot
 Rýchly štart
 Hold
-Čakajte
+Čakaj
 WARNING: NO COVER DB FOUND. PRESS ANY BUTTON.
-POZOR: NENAŠLA SA DATABÁZA OBALOV NA HRY. STLAČTE ĽUBOVOĽNÚ KLÁVESU.
+POZOR: NENAŠLA SA DATABÁZA OBALOV NA HRY. STLAČ ĽUBOVOĽNÚ KLÁVESU.
 Language:
 Jazyk:
 RetroArch is not installed
